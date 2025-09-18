@@ -1,5 +1,5 @@
 <template>
-<!--<app-head></app-head>-->
+<app-head></app-head>
 <app-view></app-view>
 <app-dialog></app-dialog>
 </template>
