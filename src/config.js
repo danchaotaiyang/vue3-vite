@@ -40,14 +40,6 @@ export const USE_DEBUG = false;
 //≡≡≡  启用异常信息  ≡≡≡//
 export const USE_ERROR_MESSAGE = true;
 
-export const cesiumAccessTokenDefault = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI0ZDU5YWY0YS0yZDcxLTQ3NTAtOTZhOC1mM2VkYTQxNzI1NDUiLCJpZCI6MTIwNzIxLCJpYXQiOjE2OTU4MzI2MTR9.MBOnfmOqXuK5nOi6VB_ASgr9rjVaZWEJRsfmZeFxfCI';
-
-export const cameraView = {
-    longitude: 106.0857899932861,
-    latitude: 32.472162691314048,
-    height: 12000000
-};
-
 //≡≡≡  备用id  ≡≡≡//
 /*
 112e78c2bd464a8fa3cf29392d59754b
