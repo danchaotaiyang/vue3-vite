@@ -1,7 +1,6 @@
 import { fileURLToPath, URL } from 'node:url';
 import { defineConfig } from 'vite';
 import vue from '@vitejs/plugin-vue';
-import cesium from 'vite-plugin-cesium';
 import legacy from '@vitejs/plugin-legacy';
 import Inspect from 'vite-plugin-inspect';
 import { visualizer } from 'rollup-plugin-visualizer';
@@ -11,7 +10,6 @@ import { codeInspectorPlugin } from 'code-inspector-plugin';
 export default defineConfig({
     plugins: [
         vue(),
-        cesium(),
         codeInspectorPlugin({
             bundler: 'vite',
             editor: 'webstorm'

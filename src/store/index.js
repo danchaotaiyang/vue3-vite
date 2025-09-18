@@ -11,4 +11,4 @@ export * from '@/store/module/basic';
 
 export * from '@/store/module/knowledge';
 
-export * from '@/store/module/auth';
+export * from '@/store/module/authentication';
