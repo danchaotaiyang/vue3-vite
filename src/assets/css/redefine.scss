@@ -1,4 +1,4 @@
-@use "sass:math";
+@use 'sass:math';
 
 html,
 body,
@@ -48,7 +48,7 @@ h6 {
 }
 
 h2 {
-    font-size: 14px
+    font-size: 14px;
 }
 
 h3 {
@@ -427,27 +427,27 @@ button {
     text-align: left;
 }
 
-.font-300 {
+.font-weight-300 {
     font-weight: 300;
 }
 
-.font-500 {
+.font-weight-500 {
     font-weight: 500;
 }
 
-.font-700 {
+.font-weight-700 {
     font-weight: 700;
 }
 
-.font-900 {
+.font-weight-900 {
     font-weight: 900;
 }
 
-.font-bold {
+.font-weight-bold {
     font-weight: bold;
 }
 
-.font-italic {
+.font-style-italic {
     font-style: italic;
 }
 
@@ -552,11 +552,11 @@ button {
 }
 
 .font-ya-hei {
-    font-family: "Microsoft YaHei", Arial, sans-serif;
+    font-family: 'Microsoft YaHei', Arial, sans-serif;
 }
 
 .font-sim-sun {
-    font-family: "SimSun", sans-serif;
+    font-family: 'SimSun', sans-serif;
 }
 
 .filter-gray {
